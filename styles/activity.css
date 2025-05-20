@@ -116,15 +116,6 @@ nav a:hover {
     line-height: 1.7;
 }
 
-.activity-content ul {
-    margin-left: 20px;
-    margin-bottom: 20px;
-}
-
-.activity-content li {
-    margin-bottom: 8px;
-}
-
 .navigation-buttons {
     display: flex;
     justify-content: space-between;
